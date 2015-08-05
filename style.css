@@ -17,21 +17,24 @@
      } 
      
      /* unvisited link */
-a:link {
+nav a{
+   text-decoration: none;
+}
+nav a:link {
     color: DimGray ;
 }
 
 /* visited link */
-a:visited {
+nav a:visited {
     color: DimGray ;
 }
 
 /* mouse over link */
-a:hover {
+nav a:hover {
     color: white;
 }
 
 /* selected link */
-a:active {
+nav a:active {
     color: DimGray ;
 } 
