@@ -5,7 +5,7 @@
    
     body{ 
        background-image: url(http://magdeleine.co/wp-content/uploads/2015/07/179H1-1400x933.jpg);
-       background-size: 100%;
+       background-size: cover;
        color: white;
        font-family: 'Nobile', sans-serif;
             } 
