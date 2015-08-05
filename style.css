@@ -6,7 +6,7 @@
        background-image: url(http://magdeleine.co/wp-content/uploads/2015/07/179H1-1400x933.jpg);
        background-size: cover;
        background-repeat: no-repeat;
-       color: white;
+       color: DimGray;
        font-family: 'Nobile', sans-serif;
             } 
       
@@ -18,12 +18,12 @@
      
      /* unvisited link */
 a:link {
-    color: maroon;
+    color: DimGray ;
 }
 
 /* visited link */
 a:visited {
-    color: maroon;
+    color: DimGray ;
 }
 
 /* mouse over link */
@@ -33,5 +33,5 @@ a:hover {
 
 /* selected link */
 a:active {
-    color: maroon;
+    color: DimGray ;
 } 
