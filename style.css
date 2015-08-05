@@ -4,7 +4,7 @@
    
     body{ 
        background-image: url(https://static.pexels.com/photos/5836/yellow-metal-design-decoration.jpg);
-       background-size: cover;
+       background-size: 100%;
        color: white;
        font-family: 'Nobile', sans-serif;
             } 
