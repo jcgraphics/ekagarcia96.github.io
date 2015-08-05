@@ -19,22 +19,25 @@
      /* unvisited link */
 nav a{
    text-decoration: none;
+   background-color: #AB8384;
+   padding: 5px;
+   border-radius: 10px;
 }
 nav a:link {
-    color: DimGray ;
+    color: white ;
 }
 
 /* visited link */
 nav a:visited {
-    color: DimGray ;
+    color: white ;
 }
 
 /* mouse over link */
 nav a:hover {
-    color: white;
+    color: DimGray;
 }
 
 /* selected link */
 nav a:active {
-    color: DimGray ;
+    color: white ;
 } 
