@@ -23,22 +23,22 @@ nav a{
    padding: 5px;
    border-radius: 10px;
 }
-nav a:link, footer {
+nav a:link, a:link{
     color: white ;
 }
 
 /* visited link */
-nav a:visited, footer{
+nav a:visited, a:visited{
     color: white ;
 }
 
 /* mouse over link */
-nav a:hover, footer{
+nav a:hover, a:hover{
     color: DimGray;
 }
 
 /* selected link */
-nav a, footer:active {
+nav a:active, a:active{
     color: white ;
 } 
 
