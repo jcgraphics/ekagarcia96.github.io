@@ -46,3 +46,8 @@ nav {
   position: absolute center;
   
 }
+
+footer, hr {
+   bottom: 0px;
+   }
+}
