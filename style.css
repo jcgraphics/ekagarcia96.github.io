@@ -43,5 +43,6 @@ nav a:active, a:active{
 } 
 
 nav {
-  position: absolute;
+  position: absolute center;
+  
 }
