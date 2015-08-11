@@ -42,3 +42,8 @@ nav a:active, a:active{
     color: white ;
 } 
 
+nav {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
