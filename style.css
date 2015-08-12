@@ -50,3 +50,11 @@ footer, hr {
    bottom: 0px;
    }
    
+#description {
+   text-decoration: none;
+   color: white;
+   background-color: rgba(171, 131, 132, 0.45);
+   padding: 5px;
+   border-radius: 10px;
+}
+
