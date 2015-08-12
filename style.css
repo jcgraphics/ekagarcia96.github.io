@@ -49,3 +49,7 @@ nav {
 footer, hr {
    bottom: 0px;
    }
+   
+#imagesindex {
+   border-radius: 10px;
+}
