@@ -52,7 +52,7 @@ footer, hr {
    
 #description {
    text-decoration: none;
-   color: #D6D0C3;
+   color: rgba(251, 251, 251, 0.7);
    background-color: rgba(117, 18, 89, 0.37);
    padding: 5px;
    border-radius: 10px;
