@@ -50,3 +50,6 @@ footer, hr {
    bottom: 0px;
    }
    
+.description {width:250px; height: 250px;}
+
+.me {float:left; width:100px; height:150px; margin:5px;}
