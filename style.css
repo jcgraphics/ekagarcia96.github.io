@@ -50,6 +50,9 @@ footer, hr {
    bottom: 0px;
    }
    
-.description {width:250px; height: 250px;}
+.description {
+    text-align: justify;
+    text-justify: inter-word;
+}
 
-.me {float:left; width:100px; height:150px; margin:5px;}
+.me {margin:5px;}
