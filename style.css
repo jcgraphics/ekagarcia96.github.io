@@ -52,7 +52,7 @@ footer, hr {
    }
    
 footer{
-   position: absolute;
+   position: absolute center;
    bottom: 0;
 }
    
