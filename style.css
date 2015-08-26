@@ -50,12 +50,7 @@ nav {
 footer, hr {
    bottom: 0px;
    }
-   
-footer{
-   position: absolute center;
-   bottom: 0;
-}
-   
+  
 #description {
    text-decoration: none;
    color: rgba(251, 251, 251, 0.7);
