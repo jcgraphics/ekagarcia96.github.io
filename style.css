@@ -60,21 +60,11 @@ footer, hr {
 }
 #see{
 
- 
-  background: -webkit-linear-gradient(90deg, #ECE9E6 10%, #FFFFFF 90%); /* Chrome 10+, Saf5.1+ */
-  background:    -moz-linear-gradient(90deg, #ECE9E6 10%, #FFFFFF 90%); /* FF3.6+ */
-  background:     -ms-linear-gradient(90deg, #ECE9E6 10%, #FFFFFF 90%); /* IE10 */
-  background:      -o-linear-gradient(90deg, #ECE9E6 10%, #FFFFFF 90%); /* Opera 11.10+ */
-  background:         linear-gradient(90deg, #ECE9E6 10%, #FFFFFF 90%); /* W3C */
+  background: -webkit-linear-gradient(90deg, #FFA17F 10%, #00223E 90%); /* Chrome 10+, Saf5.1+ */
+  background:    -moz-linear-gradient(90deg, #FFA17F 10%, #00223E 90%); /* FF3.6+ */
+  background:     -ms-linear-gradient(90deg, #FFA17F 10%, #00223E 90%); /* IE10 */
+  background:      -o-linear-gradient(90deg, #FFA17F 10%, #00223E 90%); /* Opera 11.10+ */
+  background:         linear-gradient(90deg, #FFA17F 10%, #00223E 90%); /* W3C */
         
 
-   width:100%;
-   height:100px;
-   padding:20px;
-   
-   position:absolute;
-   top:50%;
-   left:50%;
-   
-   margin: -32px 0 0 -170px;
 }
