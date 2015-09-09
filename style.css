@@ -51,9 +51,6 @@ footer, hr {
    bottom: 0px;
  }
   
-  footer {
-       position: fixed;
-  }
   
 #description {
    text-decoration: none;
