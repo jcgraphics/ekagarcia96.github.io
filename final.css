@@ -1,6 +1,6 @@
 .nav a {
-  color: #5a5a5a;
-  font-size: 11px;
+  color: ##363636;
+  font-size: 15px;
   font-weight: bold;
   padding: 14px 10px;
   text-transform: uppercase;
@@ -23,29 +23,29 @@
 }
 
 .jumbotron h1 {
-  color: #fff;
-  font-size: 48px;  
+  color: #ffe913;
+  font-size: 50px;  
   font-family: 'Shift', sans-serif;
   font-weight: bold;
 }
 
 .jumbotron p {
-  font-size: 20px;
-  color: #fff;
+  font-size: 25px;
+  color: #ffe913;
 }
 
 .learn-more {
-  background-color: #f7f7f7;
+  background-color: #04f9cd;
 }
 
 .learn-more h3 {
   font-family: 'Shift', sans-serif;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: bold;
 }
 
 .learn-more a {
-  color: #00b0ff;
+  color: #3e1a96;
 }
 
 .neighborhood-guides{
@@ -54,12 +54,12 @@
 }
 
 .neighborhood-guides h2{
-    color: #393c3d;
-    font-size: 24px;
+    color: #7a12b4;
+    font-size: 26px;
 
 }
 
 .neighborhood-guides p{
-     font-size: 15px;
+     font-size: 18px;
     margin-bottom: 13px;    
 }
